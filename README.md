@@ -1,2 +1,3 @@
-# belajar-ml
-# belajar-ml
+# Belajar ML
+
+Repo untuk belajar ML
