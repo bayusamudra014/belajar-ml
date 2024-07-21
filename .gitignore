@@ -3,3 +3,5 @@ additional_test/
 *.zip
 .ipynb_checkpoints/
 datasets/
+logs/
+models/
