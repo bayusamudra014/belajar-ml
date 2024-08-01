@@ -2,6 +2,7 @@ data/
 additional_test/
 *.zip
 .ipynb_checkpoints/
-datasets/
+datasets*/
 logs/
 models/
+*.old
